@@ -4,6 +4,17 @@ import { Badge } from "@/ui/badge";
 
 export const frontendNavData: NavProps["data"] = [
 	{
+		name: "sys.nav.newGroup",
+		items: [
+			{
+				title: "sys.nav.newItem",
+				path: "/products",
+				icon: <Icon icon="local:ic-store" size="24" />,
+				// caption: "sys.nav.newItem.caption",
+			},
+		],
+	},
+	{
 		name: "sys.nav.dashboard",
 		items: [
 			{

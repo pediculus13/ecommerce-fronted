@@ -116,6 +116,9 @@
 				},
 				"index": "Menu Level"
 			},
+			"newGroup": "Products",
+			"newItem": "Products",
+			"newItem.caption": "Description for new product",
 			"scroll": "Scroll",
 			"system": {
 				"index": "System",
